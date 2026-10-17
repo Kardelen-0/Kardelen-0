@@ -3,7 +3,7 @@
 ---
 
 - 🔭 Currently working on **Web & Software Development projects**
-- 🌱 Currently learning **React.js, Tailwind CSS & PHP**
+- 🌱 Currently learning **React.js, Tailwind CSS & PHP ...**
 
 
 ### Languages and Tools:
